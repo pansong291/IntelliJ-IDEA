@@ -1,0 +1,183 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="localRepository" value="D:\Program\maven-repository" />
+            <option name="mavenHome" value="D:/Program/apache-maven-3.5.2" />
+            <option name="userSettingsFile" value="D:\Program\apache-maven-3.5.2\conf\settings.xml" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="paso" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Ali-Check</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectViewState">
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showLibraryContents" value="true" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="last.edited.regexp" value="" />
+        <property name="project.structure.last.edited" value="Project" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.40" ALTERNATIVE_JRE_ENABLED="false">
+          <option name="UPDATING_POLICY" value="restart-server" />
+          <deployment />
+          <server-settings>
+            <option name="BASE_DIRECTORY_NAME" value="_Default_(Template)_Project" />
+          </server-settings>
+          <predefined_log_file enabled="true" id="Tomcat" />
+          <predefined_log_file enabled="true" id="Tomcat Catalina" />
+          <predefined_log_file id="Tomcat Manager" />
+          <predefined_log_file id="Tomcat Host Manager" />
+          <predefined_log_file id="Tomcat Localhost Access" />
+          <RunnerSettings RunnerId="Debug">
+            <option name="DEBUG_PORT" value="52202" />
+          </RunnerSettings>
+          <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+            <option name="USE_ENV_VARIABLES" value="true" />
+            <STARTUP>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </STARTUP>
+            <SHUTDOWN>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </SHUTDOWN>
+          </ConfigurationWrapper>
+          <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+            <option name="USE_ENV_VARIABLES" value="true" />
+            <STARTUP>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </STARTUP>
+            <SHUTDOWN>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </SHUTDOWN>
+          </ConfigurationWrapper>
+          <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+            <option name="USE_ENV_VARIABLES" value="true" />
+            <STARTUP>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </STARTUP>
+            <SHUTDOWN>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </SHUTDOWN>
+          </ConfigurationWrapper>
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+      </component>
+      <component name="SaveActionSettings">
+        <option name="actions">
+          <set>
+            <option value="activate" />
+            <option value="organizeImports" />
+            <option value="unqualifiedFieldAccess" />
+            <option value="unqualifiedMethodAccess" />
+            <option value="unqualifiedStaticMemberAccess" />
+            <option value="missingOverrideAnnotation" />
+            <option value="useBlocks" />
+          </set>
+        </option>
+        <option name="configurationPath" value="" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="Copyright.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <last-edited>bootstrap</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

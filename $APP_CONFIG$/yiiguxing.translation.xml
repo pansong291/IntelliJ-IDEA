@@ -1,0 +1,65 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogX" value="722" />
+    <option name="newTranslationDialogY" value="366" />
+    <histories>
+      <item value="Coprime" />
+      <item value="is Random" />
+      <item value="Character Name Factory" />
+      <item value="next Name" />
+      <item value="get Name" />
+      <item value="init Offsets" />
+      <item value="is Coprime" />
+      <item value="pivot" />
+      <item value="annotation" />
+      <item value="Processing" />
+      <item value="constructor" />
+      <item value="user has not login." />
+      <item value="evaluated" />
+      <item value="Evaluate dynamic method matcher here: static part will already have been evaluated and found to match." />
+      <item value="Process finished with exit code 0" />
+      <item value="It takes the name of an attribute that is a fragment, and invokes the fragment, sending the output of the result to the JspWriter, or to a scoped attribute that can be examined and manipulated. This standard action can only be used in tag files." />
+      <item value="It invokes the body of the tag, sending the output of the result to the JspWriter, or to a scoped attribute that can be examined and manipulated. This standard action can only be used in tag files." />
+      <item value="glyphicon" />
+      <item value="Implicit" />
+      <item value="search" />
+      <item value="Facade" />
+      <item value="unkown" />
+      <item value="Compatible" />
+      <item value="Primitive" />
+      <item value="chomp" />
+      <item value="In Combining Diacritical Marks" />
+      <item value="Accent" />
+      <item value="strip" />
+      <item value="Unfortunately, conversion to uppercase does not work properly for the Georgian alphabet, which has strange rules about case conversion. So we need to make one last check before exiting." />
+      <item value="Unfortunately, conversion to uppercase does not work properly // for the Georgian alphabet, which has strange rules about case // conversion. So we need to make one last check before // exiting." />
+      <item value="rx" />
+      <item value="folder" />
+      <item value="Directory" />
+      <item value="CallerSensitive annotation expected at frame 1" />
+      <item value="Chrono" />
+      <item value="Constructs a new, empty linked hash set. (This package private constructor is only used by LinkedHashSet.) The backing HashMap instance is a LinkedHashMap with the specified initial capacity and the specified load factor." />
+      <item value="Normally this method leaves the elements at up to i-1, inclusive, untouched. Under these circumstances, it returns null. Occasionally, in order to maintain the heap invariant, it must swap a later element of the list with one earlier than i. Under these circumstances, this method returns the element that was previously at the end of the list and is now at some position before i. This fact is used by iterator.remove so as to avoid missing traversing elements." />
+      <item value="Normally this method leaves the elements at up to i-1, * inclusive, untouched. Under these circumstances, it returns * null. Occasionally, in order to maintain the heap invariant, * it must swap a later element of the list with one earlier than * i. Under these circumstances, this method returns the element * that was previously at the end of the list and is now at some * position before i. This fact is used by iterator.remove so as to * avoid missing traversing elements." />
+      <item value="Predicate" />
+      <item value="* Parses the string argument as a signed integer in the radix * specified by the second argument." />
+      <item value="WARNING: This method may be invoked early during VM initialization * before IntegerCache is initialized. Care must be taken to not use * the valueOf method." />
+      <item value="current" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="46" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1612152203505" />
+  </component>
+  <component name="Settings">
+    <option name="phoneticFontFamily" value="Consolas" />
+    <option name="primaryFontFamily" value="Microsoft YaHei" />
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>

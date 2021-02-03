@@ -1,0 +1,8 @@
+<templateSet group="Java">
+  <template name="psvm" value="public static void main(String[] args){&#10;  $END$&#10;} // main" description="main() method declaration" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="main" value="public static void main(String[] args){&#10;  $END$&#10;} // main" description="main() method declaration" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>

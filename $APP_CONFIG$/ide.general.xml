@@ -1,0 +1,10 @@
+<application>
+  <component name="GeneralSettings">
+    <option name="autoSaveIfInactive" value="true" />
+    <option name="defaultProjectDirectory" value="D:\IdeaProjects" />
+    <option name="showTipsOnStartup" value="false" />
+  </component>
+  <component name="Registry">
+    <entry key="completion.stats.show.ml.ranking.diff" value="true" />
+  </component>
+</application>

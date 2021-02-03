@@ -1,0 +1,20 @@
+<application>
+  <component name="RestfulSetting">
+    <option name="appSetting">
+      <Settings>
+        <option name="properties">
+          <map>
+            <entry key="HTTP的最大重定向次数" value="3" />
+            <entry key="使用缓存？（可能会增加内存占用）" value="false" />
+            <entry key="扫描lib包里面的Service接口" value="false" />
+            <entry key="是否默认展开Service树状图" value="false" />
+            <entry key="请选择图标主题：" value="cute" />
+            <entry key="选择容器默认的Context Path（必须以'/'开头且不能以'/'结尾）" value="/" />
+            <entry key="选择容器默认的端口号（0-65535）" value="8080" />
+            <entry key="选择默认的Content-Type" value="application/x-www-form-urlencoded" />
+          </map>
+        </option>
+      </Settings>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,10 @@
+<templateSet group="iterations">
+  <template name="itar" value="for(int $INDEX$ = 0; $INDEX$ &lt; $ARRAY$.length; $INDEX$++) {&#10;  $END$&#10;}" description="Iterate elements of array" toReformat="true" toShortenFQNames="true">
+    <variable name="INDEX" expression="suggestIndexName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="ARRAY" expression="arrayVariable()" defaultValue="&quot;array&quot;" alwaysStopAt="true" />
+  </template>
+  <template name="ritar" value="for(int $INDEX$ = $ARRAY$.length - 1; $INDEX$ &gt;= 0; $INDEX$--) {&#10;  $END$&#10;}" description="Iterate elements of array in reverse order" toReformat="true" toShortenFQNames="true">
+    <variable name="INDEX" expression="suggestIndexName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="ARRAY" expression="arrayVariable()" defaultValue="&quot;array&quot;" alwaysStopAt="true" />
+  </template>
+</templateSet>

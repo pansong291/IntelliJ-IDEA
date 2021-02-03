@@ -1,0 +1,5 @@
+<templateSet group="Zen HTML">
+  <template name="script" value="&lt;script&gt;&#10;$END$&#10;&lt;/script&gt;" description="&lt;script&gt;...&lt;/script&gt;" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>
