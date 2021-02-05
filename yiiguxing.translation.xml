@@ -4,6 +4,19 @@
     <option name="newTranslationDialogX" value="722" />
     <option name="newTranslationDialogY" value="366" />
     <histories>
+      <item value="INFORMATIONAL" />
+      <item value="Series" />
+      <item value="Unavailable For Legal Reasons" />
+      <item value="Too Many Requests" />
+      <item value="Precondition Required" />
+      <item value="Upgrade Required" />
+      <item value="Failed Dependency" />
+      <item value="Unprocessable Entity" />
+      <item value="I'm a teapot" />
+      <item value="Expectation Failed" />
+      <item value="satisfiable" />
+      <item value="Precondition Failed" />
+      <item value="Precondition" />
       <item value="Coprime" />
       <item value="is Random" />
       <item value="Character Name Factory" />
@@ -41,16 +54,11 @@
       <item value="Chrono" />
       <item value="Constructs a new, empty linked hash set. (This package private constructor is only used by LinkedHashSet.) The backing HashMap instance is a LinkedHashMap with the specified initial capacity and the specified load factor." />
       <item value="Normally this method leaves the elements at up to i-1, inclusive, untouched. Under these circumstances, it returns null. Occasionally, in order to maintain the heap invariant, it must swap a later element of the list with one earlier than i. Under these circumstances, this method returns the element that was previously at the end of the list and is now at some position before i. This fact is used by iterator.remove so as to avoid missing traversing elements." />
-      <item value="Normally this method leaves the elements at up to i-1, * inclusive, untouched. Under these circumstances, it returns * null. Occasionally, in order to maintain the heap invariant, * it must swap a later element of the list with one earlier than * i. Under these circumstances, this method returns the element * that was previously at the end of the list and is now at some * position before i. This fact is used by iterator.remove so as to * avoid missing traversing elements." />
-      <item value="Predicate" />
-      <item value="* Parses the string argument as a signed integer in the radix * specified by the second argument." />
-      <item value="WARNING: This method may be invoked early during VM initialization * before IntegerCache is initialized. Care must be taken to not use * the valueOf method." />
-      <item value="current" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="58" />
+        <entry key="ENGLISH" value="59" />
       </map>
     </option>
   </component>
