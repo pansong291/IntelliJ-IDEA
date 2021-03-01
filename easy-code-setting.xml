@@ -1,0 +1,76 @@
+<application>
+  <component name="EasyCodeSetting">
+    <option name="author" value="paso" />
+    <option name="typeMapperGroupMap">
+      <map>
+        <entry key="Default">
+          <value>
+            <TypeMapperGroup>
+              <option name="elementList">
+                <list>
+                  <TypeMapper>
+                    <option name="columnType" value="varchar(\(\d+\))?" />
+                    <option name="javaType" value="java.lang.String" />
+                  </TypeMapper>
+                  <TypeMapper>
+                    <option name="columnType" value="char(\(\d+\))?" />
+                    <option name="javaType" value="java.lang.String" />
+                  </TypeMapper>
+                  <TypeMapper>
+                    <option name="columnType" value="text" />
+                    <option name="javaType" value="java.lang.String" />
+                  </TypeMapper>
+                  <TypeMapper>
+                    <option name="columnType" value="decimal(\(\d+\))?" />
+                    <option name="javaType" value="java.lang.Double" />
+                  </TypeMapper>
+                  <TypeMapper>
+                    <option name="columnType" value="decimal(\(\d+,\d+\))?" />
+                    <option name="javaType" value="java.lang.Double" />
+                  </TypeMapper>
+                  <TypeMapper>
+                    <option name="columnType" value="integer" />
+                    <option name="javaType" value="java.lang.Integer" />
+                  </TypeMapper>
+                  <TypeMapper>
+                    <option name="columnType" value="int(\(\d+\))?" />
+                    <option name="javaType" value="java.lang.Integer" />
+                  </TypeMapper>
+                  <TypeMapper>
+                    <option name="columnType" value="int4" />
+                    <option name="javaType" value="java.lang.Integer" />
+                  </TypeMapper>
+                  <TypeMapper>
+                    <option name="columnType" value="int8" />
+                    <option name="javaType" value="java.lang.Long" />
+                  </TypeMapper>
+                  <TypeMapper>
+                    <option name="columnType" value="bigint(\(\d+\))?" />
+                    <option name="javaType" value="java.lang.Long" />
+                  </TypeMapper>
+                  <TypeMapper>
+                    <option name="columnType" value="datetime" />
+                    <option name="javaType" value="java.util.Date" />
+                  </TypeMapper>
+                  <TypeMapper>
+                    <option name="columnType" value="timestamp" />
+                    <option name="javaType" value="java.util.Date" />
+                  </TypeMapper>
+                  <TypeMapper>
+                    <option name="columnType" value="boolean" />
+                    <option name="javaType" value="java.lang.Boolean" />
+                  </TypeMapper>
+                  <TypeMapper>
+                    <option name="columnType" value="date" />
+                    <option name="javaType" value="java.util.Date" />
+                  </TypeMapper>
+                </list>
+              </option>
+              <option name="name" value="Default" />
+            </TypeMapperGroup>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
