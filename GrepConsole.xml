@@ -115,7 +115,7 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value=".*com\.javasm.*" />
+                      <option name="grepExpression" value=".*cn\.javasm.*" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
