@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="722" />
     <option name="newTranslationDialogY" value="366" />
     <histories>
+      <item value="Required int parameter 'infoId' is not present" />
+      <item value="Optional int parameter 'infoId' is present but cannot be translated into a null value due to being declared as a primitive type." />
+      <item value="Consider declaring it as object wrapper for the corresponding primitive type." />
       <item value="Converter" />
       <item value="Convertor" />
       <item value="INFORMATIONAL" />
@@ -51,19 +54,16 @@
       <item value="Unfortunately, conversion to uppercase does not work properly // for the Georgian alphabet, which has strange rules about case // conversion. So we need to make one last check before // exiting." />
       <item value="rx" />
       <item value="folder" />
-      <item value="Directory" />
-      <item value="CallerSensitive annotation expected at frame 1" />
-      <item value="Chrono" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614586558759" />
+    <option name="lastTrimTime" value="1615019595906" />
   </component>
   <component name="Settings">
     <option name="phoneticFontFamily" value="Consolas" />
