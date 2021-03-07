@@ -3,10 +3,28 @@
     <keyboard-shortcut first-keystroke="ctrl space" />
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
+  <action id="Diff.NextChange">
+    <keyboard-shortcut first-keystroke="ctrl f6" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="shift ctrl f6" />
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
+  </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="HippieCompletion" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl f6" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift ctrl f6" />
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="Print" />
 </keymap>
