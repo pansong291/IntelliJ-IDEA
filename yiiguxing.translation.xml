@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="722" />
     <option name="newTranslationDialogY" value="366" />
     <histories>
+      <item value="track" />
       <item value="状态非法" />
       <item value="Required int parameter 'infoId' is not present" />
       <item value="Optional int parameter 'infoId' is present but cannot be translated into a null value due to being declared as a primitive type." />
@@ -53,12 +54,11 @@
       <item value="strip" />
       <item value="Unfortunately, conversion to uppercase does not work properly for the Georgian alphabet, which has strange rules about case conversion. So we need to make one last check before exiting." />
       <item value="Unfortunately, conversion to uppercase does not work properly // for the Georgian alphabet, which has strange rules about case // conversion. So we need to make one last check before // exiting." />
-      <item value="rx" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="ENGLISH" value="65" />
       </map>
     </option>
   </component>
