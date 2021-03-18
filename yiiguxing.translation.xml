@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="722" />
     <option name="newTranslationDialogY" value="366" />
     <histories>
+      <item value="Constraint Layout" />
       <item value="Generated Criteria" />
       <item value="Criteria" />
       <item value="Criterion" />
@@ -53,12 +54,11 @@
       <item value="Compatible" />
       <item value="Primitive" />
       <item value="chomp" />
-      <item value="In Combining Diacritical Marks" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="70" />
       </map>
     </option>
   </component>
