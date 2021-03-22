@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="722" />
     <option name="newTranslationDialogY" value="366" />
     <histories>
+      <item value="红黑树" />
+      <item value="五子棋" />
+      <item value="扫雷" />
+      <item value="主页" />
+      <item value="select" />
       <item value="Constraint Layout" />
       <item value="Generated Criteria" />
       <item value="Criteria" />
@@ -49,16 +54,11 @@
       <item value="glyphicon" />
       <item value="Implicit" />
       <item value="search" />
-      <item value="Facade" />
-      <item value="unkown" />
-      <item value="Compatible" />
-      <item value="Primitive" />
-      <item value="chomp" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
-        <entry key="ENGLISH" value="70" />
+        <entry key="CHINESE" value="74" />
+        <entry key="ENGLISH" value="74" />
       </map>
     </option>
   </component>
