@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="722" />
     <option name="newTranslationDialogY" value="366" />
     <histories>
+      <item value="Buffered" />
+      <item value="Output" />
       <item value="红黑树" />
       <item value="五子棋" />
       <item value="扫雷" />
@@ -52,22 +54,19 @@
       <item value="It takes the name of an attribute that is a fragment, and invokes the fragment, sending the output of the result to the JspWriter, or to a scoped attribute that can be examined and manipulated. This standard action can only be used in tag files." />
       <item value="It invokes the body of the tag, sending the output of the result to the JspWriter, or to a scoped attribute that can be examined and manipulated. This standard action can only be used in tag files." />
       <item value="glyphicon" />
-      <item value="Implicit" />
-      <item value="search" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
-        <entry key="ENGLISH" value="74" />
+        <entry key="CHINESE" value="75" />
+        <entry key="ENGLISH" value="76" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615993040223" />
+    <option name="lastTrimTime" value="1616510329900" />
   </component>
   <component name="Settings">
-    <option name="phoneticFontFamily" value="Consolas" />
-    <option name="primaryFontFamily" value="Microsoft YaHei" />
+    <option name="autoSelectionMode" value="EXCLUSIVE" />
     <option name="translateDocumentation" value="true" />
   </component>
 </application>
