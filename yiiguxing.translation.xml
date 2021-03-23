@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="722" />
     <option name="newTranslationDialogY" value="366" />
     <histories>
+      <item value="Interval" />
       <item value="Buffered" />
       <item value="Output" />
       <item value="红黑树" />
@@ -53,12 +54,11 @@
       <item value="Process finished with exit code 0" />
       <item value="It takes the name of an attribute that is a fragment, and invokes the fragment, sending the output of the result to the JspWriter, or to a scoped attribute that can be examined and manipulated. This standard action can only be used in tag files." />
       <item value="It invokes the body of the tag, sending the output of the result to the JspWriter, or to a scoped attribute that can be examined and manipulated. This standard action can only be used in tag files." />
-      <item value="glyphicon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="77" />
       </map>
     </option>
   </component>
