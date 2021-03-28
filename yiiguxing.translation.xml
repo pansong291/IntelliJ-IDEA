@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="722" />
     <option name="newTranslationDialogY" value="366" />
     <histories>
+      <item value="compute If Absent" />
+      <item value="compute If Present" />
+      <item value="Present" />
+      <item value="Absent" />
+      <item value="compute" />
       <item value="Interval" />
       <item value="Buffered" />
       <item value="Output" />
@@ -49,16 +54,11 @@
       <item value="Processing" />
       <item value="constructor" />
       <item value="user has not login." />
-      <item value="evaluated" />
-      <item value="Evaluate dynamic method matcher here: static part will already have been evaluated and found to match." />
-      <item value="Process finished with exit code 0" />
-      <item value="It takes the name of an attribute that is a fragment, and invokes the fragment, sending the output of the result to the JspWriter, or to a scoped attribute that can be examined and manipulated. This standard action can only be used in tag files." />
-      <item value="It invokes the body of the tag, sending the output of the result to the JspWriter, or to a scoped attribute that can be examined and manipulated. This standard action can only be used in tag files." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="82" />
       </map>
     </option>
   </component>
