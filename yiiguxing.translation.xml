@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="722" />
     <option name="newTranslationDialogY" value="366" />
     <histories>
+      <item value="The javadoc description is true upon serialization. Additionally, if the table array has not been allocated, this field holds the initial array capacity, or zero signifying DEFAULT_INITIAL_CAPACITY." />
       <item value="compute If Absent" />
       <item value="compute If Present" />
       <item value="Present" />
@@ -53,12 +54,11 @@
       <item value="annotation" />
       <item value="Processing" />
       <item value="constructor" />
-      <item value="user has not login." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="83" />
       </map>
     </option>
   </component>
